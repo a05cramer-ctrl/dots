@@ -1,11 +1,1 @@
-window.DOT_CFG = {
-  NAME: "DOTS",
-  TICKER: "DOT",
-  CA: "",
-  CHAIN: "solana",
-  PAD: "pumpfun",
-  PAIR: "",
-  X: "",
-  BUY: "",   // empty = https://pump.fun/coin/<CA>
-  CHART: ""  // empty = https://gmgn.ai/sol/token/<CA>
-};
+window.DOT_CFG={NAME:"DOTS",TICKER:"DOT",CA:"6gTRJ9tbi29gFvo6a7p6wRjrixi9h4jNmPbCdBxZpump",CHAIN:"solana",PAD:"pumpfun",PAIR:"",X:"https://x.com/useyourdots",BUY:"https://pump.fun/coin/6gTRJ9tbi29gFvo6a7p6wRjrixi9h4jNmPbCdBxZpump",CHART:"https://gmgn.ai/sol/token/6gTRJ9tbi29gFvo6a7p6wRjrixi9h4jNmPbCdBxZpump"};
